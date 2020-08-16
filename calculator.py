@@ -15,7 +15,7 @@ def main():
       elif op == "*":
         print(result  = n1*n2)
       else:
-          print("the numbers were invalid")
+        print("the numbers were invalid")
 
 
 
